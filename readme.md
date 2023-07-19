@@ -38,30 +38,6 @@ dispersé existe dans les sous dossier du dossier Documentation.
 Elle se trouve dispersé dans les sous dossier du dossier Documentation.
 Ou elle se trouve dans le pdf qui les réuni tous : Documentation/Documentation.pdf
 
-## Présentation
-# Projet Garage Automobile - Application Web Vitrine
-
-Ce projet consiste à créer une application web vitrine pour le Garage V. Parrot, mettant en avant la qualité des services proposés par cette entreprise.
-
-## La documentation technique : 
-Elle est dans le dossier Documentation/Documentation.pdf, c'est réunie dans ce PDF, sinon des versions jpeg
-dispersé existe dans les sous dossier du dossier Documentation.
-
-## La charte graphique :
-Elle se trouve dispersé dans les sous dossier du dossier Documentation.
-Ou elle se trouve dans le pdf qui les réuni tous : Documentation/Documentation.pdf
-
-## Présentation
-# Projet Garage Automobile - Application Web Vitrine
-
-Ce projet consiste à créer une application web vitrine pour le Garage V. Parrot, mettant en avant la qualité des services proposés par cette entreprise.
-## La documentation technique : 
-Elle est dans le dossier Documentation/Documentation.pdf, c'est réunie dans ce PDF, sinon des versions jpeg
-dispersé existe dans les sous-dossiers du dossier documentation.
-
-## La charte graphique :
-Elle se trouve dispersée dans les sous-dossiers du dossier documentation.
-Ou elle se trouve dans le PDF qui les réunit tout : Documentation/Documentation.pdf
 
 ## Présentation
 # Projet Garage Automobile - Application Web Vitrine
