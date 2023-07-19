@@ -3,7 +3,7 @@
 ## Important à lire avant tout, contexte de mon travail.
 --
 En Local (Laragon) : http://localhost/ECF_Garage/public/main
-(Suivre la méthode pour l'installer plus bas))
+(Suivre la méthode pour l'installer plus bas)
 
 
 En déployé, avec Heroku : https://ecfgarage-31eec1271c13.herokuapp.com/
