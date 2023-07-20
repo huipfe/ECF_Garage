@@ -13,7 +13,8 @@ Il y aura forcément des erreurs que je n'ai pas pu régler avec heroku, car j'a
 
 Donc si j'ai moins de points à cause de ça, on nous a prévenu, seulement au dernier moment, durant des mois, les formateurs ont été incapable de nous raconter la même version, et de se mettre d'accord, sur ce point pourtant crucial.
 
-Cela m'écoeure réellement, plus jamais je ne développerais en local de cette manière, vu la différence, et la galère d'implémentation, pour simplement déployer.
+Cela m'écoeure, plus jamais je ne développerais en local de cette manière, vu la différence, et la galère d'implémentation, pour simplement déployer.
+
 --
 
 
