@@ -65,35 +65,4 @@
         ?>
 <?php
 
-// namespace App\Database;
-
-// use PDO;
-// use PDOException;
-
-// class Db extends PDO
-// {
-//     private static $instance;
-
-//     public function __construct()
-//     {
-//         $url = getenv('DATABASE_URL');
-//         // Récupère l'URL de connexion à la base de données depuis les variables d'environnement
-
-//         try {
-//             parent::__construct($url);
-//             $this->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_OBJ);
-//             $this->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-//         } catch (PDOException $e) {
-//             die($e->getMessage());
-//         }
-//     }
-
-//     public static function getInstance()
-//     {
-//         if (self::$instance === null) {
-//             self::$instance = new self();
-//         }
-//         return self::$instance;
-//     }
-// }
 ?>
