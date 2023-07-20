@@ -9,12 +9,6 @@ En Local (Laragon) : http://localhost/ECF_Garage/public/main
 En déployé, avec Heroku : https://ecfgarage-31eec1271c13.herokuapp.com/
 (Si heroku bug, ou à des problèmes avec des fonctionnalités, passer avec la méthode Locale via Laragon, comme expliquer ci-dessous)
 
-Il y aura forcément des erreurs que je n'ai pas pu régler avec heroku, car j'avais prévu du local durant des mois, car on nous avait dit que l'utilisation des deux était équivalente, mais 2 jours avant les dates de rendu, on nous prévient que le déploiement est supérieur, est qu'il faut le faire, et que c'est mieux que du local.
-
-Donc si j'ai moins de points à cause de ça, on nous a prévenu, seulement au dernier moment, durant des mois, les formateurs ont été incapable de nous raconter la même version, et de se mettre d'accord, sur ce point pourtant crucial.
-
-Cela m'écoeure, plus jamais je ne développerais en local de cette manière, vu la différence, et la galère d'implémentation, pour simplement déployer.
-
 --
 
 
